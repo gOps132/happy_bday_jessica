@@ -12,22 +12,22 @@
 
     font-size: 0.8rem;
 
-	filter: opacity(0.5);
-	transition: var(--transition-speed);
+	filter: opacity(0.9);
+	/* transition: var(--transition-speed); */
 }
 
 .m_footer_elm>* {
     margin: 1rem;
-    transition: all var(--transition-speed) ease;
+    /* transition: all var(--transition-speed) ease; */
 
     color: var(--text-primary);
     border-color: var(--b-bg-primary);
 }
 
-.m_footer:hover {
+/* .m_footer:hover {
     transition: all var(--transition-speed) ease;
-	filter: opacity(0.7);
-}
+	filter: opacity(1);
+} */
 
 .m_footer_elm.ul {
     text-decoration: none;
@@ -35,13 +35,12 @@
 
 .m_footer_elm * {
     color: var(--text-secondary);
-    filter: opacity(0.5);
+    filter: opacity(0.8);
 }
 
 .m_footer_elm *:hover {
     filter: opacity(1);
 }
-
 
 
 @media only screen and (max-width: 600px) {
