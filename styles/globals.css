@@ -17,10 +17,6 @@
 	--transition-speed: 600ms;
 
 	--b-bg-primary: #3e3e51;
-
-	--bg-image-brightness: 50%;
-
-	--background-image: url(/img/background/studying-dark.jpeg);
 }
 
 /* have to make a false body */
@@ -71,10 +67,6 @@ article:last-child {
 	--bg-secondary: #141418;
 
 	--b-bg-primary: #3e3e51;
-
-	--bg-image-brightness: 50%;
-
-	--background-image: url(/img/background/studying-dark.jpeg);
 }
 
 .light {
@@ -84,23 +76,15 @@ article:last-child {
 	--bg-secondary: #e4e4e4;
 
 	--b-bg-primary: #ffffff;
-
-	--bg-image-brightness: 90%;
-
-	--background-image: url(/img/background/studying-day.webp);
 }
 
 .solar {
-	--text-primary: #e2435b;
-	--text-secondary: #e83110;
-	--bg-primary: #f8c427;
-	--bg-secondary: #ee8300;
+	--text-primary: #576e75;
+	--text-secondary: #35535c;
+	--bg-primary: #fdf6e3;
+	--bg-secondary: #f5e5b8;
 
-	--b-bg-primary: #f59a69 ;
-
-	--bg-image-brightness: 60%;
-
-	--background-image: url(/img/background/studying-sunny.webp);
+	--b-bg-primary: #e3daaa;
 }
 
 body {

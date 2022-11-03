@@ -4,20 +4,14 @@ const Footer = () => {
 	return (
 		<div className={footer_style.m_footer}>
 			<div className={footer_style.m_footer_elm}>
-				<h2>Members</h2>
-				<h3>GROUP 5</h3>
-				<p>Epilan Gian Cedrick G.</p>
-				<p>Condor Chino Miguel</p>
-				<p>Johann Terence Jumao-as</p>
-			</div>
-			<div className={footer_style.m_footer_elm}>
-				<h2>INFO</h2>
-				<h3>11-VANDOR</h3>
-				<p>1st Qtr AAPP PT</p>
+				<h2>To</h2>
+				<h3>A good friend</h3>
+				<h3>And gross e-girl</h3>
 			</div>
 			<div className={footer_style.m_footer_elm}>
 				<h2>Made by</h2>
-				<h3>Gian Cedrick G. Epilan</h3>
+				<h3>Gops132</h3>
+				<h3>Gian Cedrick</h3>
 				<h3>With Nextjs Framework</h3>
 				<p>
 					<a href="https://nextjs.org/"><u>here</u></a>

@@ -1,5 +1,5 @@
 {
-    "name": "aapp5_1st_qtr_qa",
+    "name": "happy_bday_jessica",
     "version": "0.1.0",
     "private": true,
     "scripts": {
@@ -16,6 +16,7 @@
         "marked-katex": "^0.3.8",
         "next": "^10.2.3",
         "react": "^17.0.2",
+        "confetti-react": "^2.5.0",
         "react-dom": "17.0.2"
     }
 }
